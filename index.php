@@ -143,7 +143,7 @@ include 'header.php';
 </section>
 <!-- Feature are end -->
 
-<section id="project-area" class="project-area solid-bg">
+<section id="project-area" class="project-area">
     <div class="container">
         <div class="row text-center">
             <div class="col-lg-12">
