@@ -2,8 +2,6 @@
 include 'header.php';
 ?>
 
-
-
 <div class="banner-carousel banner-carousel-2 mb-0">
     <div class="banner-carousel-item" style="background-image: url(images/slider-main/bg1.jpg)">
         <div class="container">
@@ -123,81 +121,19 @@ include 'header.php';
 <section id="ts-features" class="ts-features solid-bg">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-12">
                 <div class="ts-intro">
                     <h2 class="into-title">About Us</h2>
-                    <h3 class="into-sub-title">We deliver quality products</h3>
+                    <h3 class="into-sub-title">Welcome to TringTone!</h3>
                     <p>
-                        We are rethoric question ran over her cheek When she reached
-                        the first hills of the Italic Mountains, she had a last view
-                        back on the skyline of her hometown Bookmarksgrove, the
-                        headline of Alphabet Village and the subline of her own road,
-                        the Line Lane.
+                        Tringtone has stood for top-quality products, true sound and tailor-made solutions for every aspect of recording, transmission and reproduction of sound. We want people to not only hear all aspects of sound, but also to feel it, too.We are shaping today the audio world of tomorrow - that is the ambition that we and our company live by from day to day.We have adopted several technology practices and services .
                     </p>
+                    <a href="#" class="btn btn-primary">Read More</a>
                 </div>
                 <!-- Intro box end -->
 
                 <div class="gap-20"></div>
 
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="ts-service-box">
-                            <span class="ts-service-icon">
-                                <i class="fas fa-trophy"></i>
-                            </span>
-                            <div class="ts-service-box-content">
-                                <h3 class="service-box-title">
-                                    We've Repution for Excellence
-                                </h3>
-                            </div>
-                        </div>
-                        <!-- Service 1 end -->
-                    </div>
-                    <!-- col end -->
-
-                    <div class="col-md-6">
-                        <div class="ts-service-box">
-                            <span class="ts-service-icon">
-                                <i class="fas fa-sliders-h"></i>
-                            </span>
-                            <div class="ts-service-box-content">
-                                <h3 class="service-box-title">We Build Partnerships</h3>
-                            </div>
-                        </div>
-                        <!-- Service 2 end -->
-                    </div>
-                    <!-- col end -->
-                </div>
-                <!-- Content row 1 end -->
-
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="ts-service-box">
-                            <span class="ts-service-icon">
-                                <i class="fas fa-thumbs-up"></i>
-                            </span>
-                            <div class="ts-service-box-content">
-                                <h3 class="service-box-title">Guided by Commitment</h3>
-                            </div>
-                        </div>
-                        <!-- Service 1 end -->
-                    </div>
-                    <!-- col end -->
-
-                    <div class="col-md-6">
-                        <div class="ts-service-box">
-                            <span class="ts-service-icon">
-                                <i class="fas fa-users"></i>
-                            </span>
-                            <div class="ts-service-box-content">
-                                <h3 class="service-box-title">A Team of Professionals</h3>
-                            </div>
-                        </div>
-                        <!-- Service 2 end -->
-                    </div>
-                    <!-- col end -->
-                </div>
-                <!-- Content row 1 end -->
             </div>
             <!-- Col end -->
         </div>
@@ -218,23 +154,33 @@ include 'header.php';
         <!--/ Title row end -->
 
         <div class="row">
-            <div class="col-md-6 col-sm-12 mt-3">
+            <div class="col-md-5 col-sm-12 mt-3 mx-auto">
                 <div class="card shadow">
-                    <div class="card-body">
-                        <img src="images/products/product1.jpg" style="width: 100%;">
-                        <h2 class="mt-2 text-center">Tringtone Sync 20</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                        <a href="/product-single.html" class="btn btn-primary">Learn More</a>
+                    <div class="card-body text-center">
+                        <img src="images/products/headset.jpg" style="width: 70%;">
+                        <h2 class="mt-2 text-center">TRINGTONE TT360D SERIES</h2>
+                        <p>Tringtone TT360D is one the most superior noise cancellation headset specially designed for call centres.
+                            The soft leatherette ear cushions with the adjustable headband guarantees all-day comfort. This durable and lightweight headset is perfect for Call Centre Agents Using IP Phones with RJ9 Connector or USB for Soft Phones (VoIP/SIP) </p>
+                        <a href="/product-single.html" class="btn btn-primary mt-3">Read More</a>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-sm-12 mt-3">
+            <div class="col-md-5 col-sm-12 mt-3 mx-auto">
                 <div class="card shadow">
-                    <div class="card-body">
-                        <img src="images/products/product1.jpg" style="width: 100%;">
-                        <h2 class="mt-2 text-center">Tringtone Studio P5</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                        <a href="/product-single.html" class="btn btn-primary">Learn More</a>
+                    <div class="card-body text-center">
+                        <img src="images/products/poe.jpg" style="width: 90%;">
+                        <h2 class="mt-2 text-center">TRINGTONE TT100 & TT105 (PoE) Series </h2>
+                        <p class="text-left">An entry level cost effective masterpiece offering superior user experience with simplicity for home
+                            and office users.
+                            With Elegant
+                            Color Screen
+                            comes with
+                        <ul class="text-left">
+                            <li>2 SIP Lines</li>
+                            <li>2 Call Appearences </li>
+                        </ul>
+                        </p>
+                        <a href="/product-single.html" class="btn btn-primary mt-3">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -257,7 +203,7 @@ include 'header.php';
             <div class="col-lg-4">
                 <div class="subscribe-call-to-acton">
                     <h3>Need Guidance?</h3>
-                    <h4>(+9) 989-789-4598</h4>
+                    <h4>sales@tringtone.com</h4>
                 </div>
             </div>
             <!-- Col end -->

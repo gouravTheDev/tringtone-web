@@ -10,7 +10,7 @@
     <!-- Mobile Specific Metas
 ================================================== -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="description" content="Construction Html5 Template" />
+    <meta name="description" content="Tringtone Website" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
 
     <!-- Favicon
@@ -79,13 +79,12 @@
                 <div class="container">
                     <div class="logo-area">
                         <div class="row align-items-center">
-                            <div class="
-                    logo
-                    col-lg-3
-                    text-center text-lg-left
-                    mb-3 mb-md-5 mb-lg-0
-                  ">
-                                <a class="d-block" href="index.html">
+                            <div class="logo
+                                col-lg-3
+                                text-center text-lg-left
+                                mb-3 mb-md-5 mb-lg-0
+                            ">
+                                <a class="d-block" href="/">
                                     <img loading="lazy" src="images/logo.png" alt="tringtone" />
                                 </a>
                             </div>
@@ -97,7 +96,7 @@
                                         <div class="info-box">
                                             <div class="info-box-content">
                                                 <p class="info-box-title">Call Us</p>
-                                                <p class="info-box-subtitle">(+91) 898-290-4789</p>
+                                                <p class="info-box-subtitle">(+91) 999-999-9998</p>
                                             </div>
                                         </div>
                                     </li>
@@ -109,16 +108,8 @@
                                             </div>
                                         </div>
                                     </li>
-                                    <li class="last">
-                                        <div class="info-box last">
-                                            <div class="info-box-content">
-                                                <p class="info-box-title">Global Certificate</p>
-                                                <p class="info-box-subtitle">ISO 9001:2017</p>
-                                            </div>
-                                        </div>
-                                    </li>
                                     <li class="header-get-a-quote">
-                                        <a class="btn btn-primary" href="contact.html">Contact Us</a>
+                                        <a class="btn btn-primary" href="contact.php">Contact Us</a>
                                     </li>
                                 </ul>
                                 <!-- Ul end -->
@@ -158,24 +149,16 @@
                                             </ul>
                                         </li>
 
-                                        <li class="nav-item dropdown">
-                                            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Solutions <i class="fa fa-angle-down"></i></a>
-                                            <ul class="dropdown-menu" role="menu">
-                                                <li><a href="#">Solution 1</a></li>
-                                                <li><a href="#">Solution 2</a></li>
-                                            </ul>
-                                        </li>
-
-                                        <li class="nav-item dropdown">
-                                            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Support <i class="fa fa-angle-down"></i></a>
-                                            <ul class="dropdown-menu" role="menu">
-                                                <li><a href="#">Support 1</a></li>
-                                                <li><a href="#">Support 2</a></li>
-                                            </ul>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="warranty.php">Warranty</a>
                                         </li>
 
                                         <li class="nav-item">
-                                            <a class="nav-link" href="contact.html">Contact</a>
+                                            <a class="nav-link" href="partner.php">Be Our Partner</a>
+                                        </li>
+
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="contact.php">Customer Support</a>
                                         </li>
                                     </ul>
                                 </div>

@@ -6,9 +6,7 @@
                     <h3 class="widget-title">About Us</h3>
                     <h1 style="color: #fff; font-size: 2.6em">TringTone</h1>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                        do eiusmod tempor inci done idunt ut labore et dolore magna
-                        aliqua.
+                    Tringtone has stood for top-quality products, true sound and tailor-made solutions for every aspect of recording, transmission and reproduction of sound.
                     </p>
                     <div class="footer-social">
                         <ul>
@@ -34,20 +32,9 @@
                     <h3 class="widget-title">Compnay</h3>
                     <ul class="list-arrow">
                         <li><a href="#">About TringTone</a></li>
-                        <li><a href="#">Careers</a></li>
-                        <li><a href="#">Events</a></li>
-                        <li><a href="#">Blogs</a></li>
-                    </ul>
-                </div>
-                <!-- Col end -->
-
-                <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
-                    <h3 class="widget-title">Resources</h3>
-                    <ul class="list-arrow">
-                        <li><a href="#">How to Buy</a></li>
-                        <li><a href="#">Promotions</a></li>
-                        <li><a href="#">Case Studies</a></li>
-                        <li><a href="#">Product Finder</a></li>
+                        <li><a href="#">Become a Partner</a></li>
+                        <li><a href="#">Warranty Information</a></li>
+                        <li><a href="#">Customer Support</a></li>
                     </ul>
                 </div>
                 <!-- Col end -->
